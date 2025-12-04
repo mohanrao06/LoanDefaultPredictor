@@ -1,0 +1,16 @@
+# Ignore large data
+data/
+*.csv
+*.parquet
+*.zip
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.ds_env/
+.env
