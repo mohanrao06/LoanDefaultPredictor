@@ -1,4 +1,6 @@
-# Loan Default Predictor - Dataset
+# 📈 Loan Default Predictor - Advanced Risk Analysis
+
+## Loan Default Predictor - Dataset
 
 This project uses the **Lending Club Loan Data** from Kaggle to analyze and predict loan defaults.  
 The dataset contains **accepted** and **rejected** loan applications spanning 2007–2018.
@@ -34,11 +36,12 @@ The data is available on Kaggle (login required):
 
 ---
 
-## 📌 Suggested Next Steps
+## 📌 Suggested For You
 
 1. Download dataset from Kaggle.  
 2. Place files in `data/raw/`.  
 3. Convert to Parquet for faster loading (optional).  
 4. Begin data exploration and preprocessing.
+
 
 
