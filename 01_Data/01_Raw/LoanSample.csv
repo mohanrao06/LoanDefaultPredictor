@@ -1,0 +1,4 @@
+﻿Loan_ID,Customer_Name,Loan_Amount,Interest_Rate,Status
+L001,John Doe,5000,5.5,Approved
+L002,Jane Smith,7000,6.2,Pending
+L003,Bob Johnson,10000,7.0,Rejected
